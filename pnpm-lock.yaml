@@ -28,7 +28,7 @@ dependencies:
     version: 1.2.2
   lodash:
     specifier: ^4.17.21
-    version: 4.17.21
+    version: 4.18.1
   parse-imports:
     specifier: ^1.1.2
     version: 1.1.2
@@ -261,8 +261,8 @@ packages:
     resolution: {integrity: sha512-mKnC+QJ9pWVzv+C4/U3rRsHapFfHvQFoFB92e52xeyGMcX6/OlIl78je1u8vePzYZSkkogMPJ2yjxxsb89cxyw==}
     dev: false
 
-  /lodash@4.17.21:
-    resolution: {integrity: sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==}
+  /lodash@4.18.1:
+    resolution: {integrity: sha512-dMInicTPVE8d1e5otfwmmjlxkZoUpiVLwyeTdUsi/Caj/gfzzblBcCE5sRHV/AsjuCmxWrte2TNGSYuCeCq+0Q==}
     dev: false
 
   /lower-case@2.0.2:
@@ -371,7 +371,7 @@ packages:
   /typescript-parser@2.6.1:
     resolution: {integrity: sha512-p4ZC10pu67KO8+WJALsJWhbAq4pRBIcP+ls8Bhl+V8KvzYQDwxw/P5hJhn3rBdLnfS5aGLflfh7WiZpN6yi+5g==}
     dependencies:
-      lodash: 4.17.21
+      lodash: 4.18.1
       lodash-es: 4.17.21
       tslib: 1.14.1
       typescript: 3.9.10
